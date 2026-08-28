@@ -1,5 +1,5 @@
 # VGLUG
-Sure — here is the **README.md content** for exactly that code, written in a simple student/developer style.
+
 
 ````markdown
 # Electricity Tariff Calculator
